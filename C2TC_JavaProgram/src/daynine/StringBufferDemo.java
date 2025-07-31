@@ -1,5 +1,5 @@
 //Program to demonstrate StringBuffer class
-package com.tnsif.daynine;
+package daynine;
 
 public class StringBufferDemo {
 	public static void main(String args[]) {
